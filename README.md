@@ -1,4 +1,4 @@
-MultiArmedBandit
+MultiArmedBandit,  Matlab implementation
 ================
 
 Comparison of different multi-armd bandit algorithm, based on simulated data. 
